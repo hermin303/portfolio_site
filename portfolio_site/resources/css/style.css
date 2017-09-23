@@ -1,0 +1,62 @@
+/*
+body
+*/
+
+body {
+    margin: 40px 120px;
+    /*Mark*/
+    border: 1px dotted grey;
+}
+
+/*
+header
+*/
+
+header {
+    display: flex;
+    /*Mark*/
+    border: 1px dotted grey;
+    margin: 2px;
+    padding: 2px;
+    justify-content: space-between;
+    text-align: right;
+}
+.logo {
+    width: 100px;
+    height: 100px;
+    /*Mark*/
+    border: 1px dotted grey;
+    margin: 2px;
+    padding: 2px;
+}
+.name {
+    /*Mark*/
+    border: 1px dotted grey;
+    margin: 2px;
+    padding: 2px;
+}
+.jumbotron-image {
+    background-image: url("C:\Projects\portfolio_site\portfolio_site\resources\img");
+}
+
+/*
+section
+*/
+
+section {
+    /*Mark*/
+    border: 1px dotted grey;
+    margin: 2px;
+    padding: 2px;
+}
+
+/*
+footer
+*/
+
+footer {
+    /*Mark*/
+    border: 1px dotted grey;
+    margin: 2px;
+    padding: 2px;
+}
